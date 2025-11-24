@@ -103,7 +103,7 @@ data class Action(
    - Documentation should explain "why" not just "what"
 
 2. **Keep AGENT.md Updated**
-   - AGENT.md is the living design document
+   - AGENT.md is the living design document containing the complete architectural specification, formulas, data models, and UX flows for Intentara
    - Add new design decisions with rationale
    - Include formulas in LaTeX when relevant
    - Document data structures and schemas
@@ -177,6 +177,7 @@ When making changes, ask:
 - Does this align with the sanctuary vision?
 - Is this mathematically sound?
 - Will this work offline-first?
+- Is this accessible to all users?
 
 ## Resources
 
