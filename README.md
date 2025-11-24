@@ -1,59 +1,79 @@
 # Intentara
+“Map your lineage. Ignite your spark.” or “Where intention becomes visible.”
+# Intentara — Human Intention Map App
 
-> "Map your lineage. Ignite your spark." | "Where intention becomes visible."
+**Map your lineage. Ignite your spark.**
 
-## Overview
-
-Intentara is a platform designed to help you track, visualize, and manifest your intentions. By mapping the lineage of your goals and aspirations, Intentara makes your path forward visible and actionable.
-
-## Features
-
-- **Intention Mapping**: Create and organize your intentions in a clear, hierarchical structure
-- **Lineage Tracking**: Trace the evolution of your goals and see how they connect
-- **Progress Visualization**: Monitor your journey with intuitive visual representations
-- **Spark Ignition**: Transform abstract intentions into concrete, actionable steps
-
-## Getting Started
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/idotamdot/Intentara.git
-cd Intentara
-
-# Install dependencies
-# (Instructions will be added as the project develops)
-```
-
-### Usage
-
-```bash
-# Basic usage instructions
-# (Instructions will be added as the project develops)
-```
-
-## Project Structure
-
-```
-Intentara/
-├── README.md       # Project documentation
-├── Agent.md        # Agent and contributor guidelines
-└── ...             # Additional files and directories
-```
-
-## Contributing
-
-We welcome contributions! Please see [Agent.md](Agent.md) for guidelines on how to contribute to this project.
-
-## License
-
-This project is open source. License details to be determined.
-
-## Contact
-
-For questions or feedback, please open an issue on GitHub.
+Intentara is a living dashboard that visualizes human intention as a dynamic graph.  
+Every action becomes a node, every connection a motif, every lineage a story.  
+It transforms data into ceremony — revealing resonance, persistence, breadth, velocity, and trust.
 
 ---
 
-*Intentara: Where intention becomes visible.*
+## ✨ Features
+
+- **Interactive Graph Map**  
+  Explore creator actions as nodes connected by motifs (△ Triangles, ★ Stars, ◎ Hubs).
+
+- **HEI Metrics**  
+  Each action is measured by resonance, persistence, breadth, velocity, and trust.
+
+- **Motif Analysis**  
+  See how your actions weave into larger constellations of meaning.
+
+- **Narrative Dashboard**  
+  Generated story snippets contextualize each action’s effect.
+
+- **Ritualized Onboarding**  
+  Threshold consecration, naming rite, preset invocation, spark initiation, and closing blessing.
+
+---
+
+## 🧭 Presets
+
+Choose your path of entry:
+- **Craft** — Measured creation, honored and remembered.
+- **Community** — Connections weaving circles of resonance and trust.
+- **Transmission** — Words carried, cited, and transformed.
+- **Ritual** — Names and gestures invoked, adopted, and repeated.
+
+---
+
+## 🔱 Motifs
+
+- **△ Triangles** — Three actions forming resonance loops.  
+- **★ Stars** — Five actions radiating outward.  
+- **◎ Hubs** — Central actions connecting many others.
+
+---
+
+## 🚀 Getting Started
+
+1. **Install** the app on your device.  
+2. **Enter the Threshold** — consecrate your presence.  
+3. **Name your sanctuary** — inscribe your lineage.  
+4. **Choose a preset path** — Craft, Community, Transmission, or Ritual.  
+5. **Ignite your HEI spark** — begin mapping your intentions.  
+
+---
+
+## 📖 Example Narrative
+
+*"Action #42 ignited resonance across three motifs.  
+Its spark persists, weaving into lineage and trust."*
+
+---
+
+## 🌀 Vision
+
+Intentara is more than an app.  
+It is a **living synthesis** — blending science and spirit, clarity and myth.  
+A sanctuary where intention becomes visible, measurable, and ceremonial.
+
+---
+
+## 📜 License
+
+Intentara is released under the **Sanctuary License** —  
+a covenant for ethical, expressive, and transformative software.  
+Use it to build, connect, and transmit with integrity.
